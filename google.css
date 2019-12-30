@@ -22,3 +22,6 @@
     border: none;
     margin: 10px auto;
 }
+#searchbar input[type=text]:focus {
+    outline: none;
+}
